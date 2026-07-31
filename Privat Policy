@@ -1,0 +1,58 @@
+Privacy Policy for FinPlan
+Last updated: July 27, 2026
+
+We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how FinPlan ("we", "our", or "us") collects, uses, stores, and protects your information when you use our mobile application.
+
+1. Information We Collect
+To provide you with the core functionality of personal finance tracking, we collect and process the following information:
+
+Account & Authentication Data: When you create an account or sign in, we collect your email address, unique User ID (UID), and basic authentication details.
+
+Financial & Budgeting Data: Transaction records, income and expense amounts, custom category names, account names, and dates entered manually by you.
+
+Technical & Diagnostic Data: IP address, device model, operating system version, and system performance logs (collected automatically via Firebase services to ensure app stability).
+
+Note: We do NOT collect bank account numbers, IBANs, credit card numbers, government IDs, or sensitive personal identity information.
+
+2. How We Use Your Information
+We use the collected information solely for the following purposes:
+
+To create and maintain your personal user account.
+
+To synchronize, display, and calculate your personal financial budget across your logged-in devices.
+
+To diagnose technical issues, fix bugs, and ensure system security.
+
+We do NOT sell, rent, trade, or share your personal data with third parties for marketing or advertising purposes.
+
+3. Data Storage, Security & International Transfers
+Your data is stored securely using Google Firebase infrastructure (Firebase Authentication and Cloud Firestore) hosted on secure servers located in the United States.
+
+Google Firebase complies with international security standards (ISO/IEC 27001, SOC 1/2/3) and the EU-U.S. Data Privacy Framework, ensuring that transfers of personal data from the European Union to the US meet European data protection standards (GDPR).
+
+We implement industry-standard encryption protocols (in transit via HTTPS/TLS and at rest) to safeguard your information.
+
+4. Account Deletion and Your Rights (GDPR)
+Under applicable privacy laws (including GDPR), you have the right to access, update, or delete your personal data at any time.
+
+Account Deletion: You can request or perform complete deletion of your account and all associated financial records directly within the App settings by selecting "Delete Account", or by contacting us via email. Upon deletion, your account credentials and stored financial records are permanently erased from our Firebase database.
+
+5. Third-Party Services
+Our application utilizes infrastructure services provided by Google LLC:
+
+Firebase Authentication: For secure user login.
+
+Cloud Firestore: For cloud storage and synchronization of your budgeting data.
+
+For more information on how Google handles data, please review Google's Privacy & Terms.
+
+6. Children's Privacy
+Our application is not directed to individuals under the age of 13 (or 16 in certain EU jurisdictions). We do not knowingly collect personal information from children.
+
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last updated" date.
+
+8. Contact Us
+If you have any questions, feedback, or requests regarding this Privacy Policy or your personal data, please contact us at:
+
+Email: tslotmidav@gmx.at
